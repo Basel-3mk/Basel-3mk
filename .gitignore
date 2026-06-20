@@ -1,4 +1,4 @@
 *.txt
-*_CL_*
+*CL*
 *Old*
-*.pd
+*.pdf
