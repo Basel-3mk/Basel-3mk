@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Welcome! 👋
 
 I am Basel Al-Jabari, a Computer Systems Engineering student at Palestine Polytechnic University, specializing in Information Security.  
