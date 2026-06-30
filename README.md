@@ -1,7 +1,7 @@
 ## Welcome! 👋
 
 I am Basel Al-Jabari, a Computer Systems Engineering student at Palestine Polytechnic University, specializing in Information Security.  
-I am passionate about Software Engineering, Back-End Development, Information Security, and Competitive Programming.
+I am passionate about Software Engineering, Back-End Development, Security, and Competitive Programming.
 
 I am also a Competitive Programming trainer and coach at PPU Code Academy, where I help students learn problem-solving using C++, Data Structures, and Algorithms.  
 I have reached **Expert** on Codeforces and participated in several programming contests such as **PCPC**, **ACPC Qualification**, **IEEEXtreme**, **Hebron Code Jam**, and **HashCode**.
@@ -55,8 +55,8 @@ Feel free to connect with me here:
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Basel-3mk.Basel-3mk)
-=======
+# ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Basel-3mk.Basel-3mk)
+
 ## Welcome! 👋
 
 I am Basel Al-Jabari, a Computer Systems Engineering student at Palestine Polytechnic University, specializing in Information Security.  
@@ -121,4 +121,3 @@ Feel free to connect with me here:
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Basel-3mk.Basel-3mk)
->>>>>>> 55c61bb4b740a0aed1d39fcb88d172409826ab95
