@@ -29,8 +29,9 @@ Feel free to connect with me here:
 - Participated in PCPC, ACPC Qualification, Hebron Code Jam, IEEEXtreme, and HashCode
 - Interested in writing optimized and reusable algorithmic templates
 
-
 ---
+
+## BOOT.DEV
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/67af45a5-3786-4183-b7d5-26f91f1e8186/thumbnail" >
