@@ -7,7 +7,7 @@ I am currently learning **Software Engineering** and improving my skills in soft
 Feel free to connect with me here:
 
 [![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/Basel%20Al--Jabari-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/basel-al-jabari-404bba2b0/)
-[![GitHub Badge](https://img.shields.io/badge/-Basel--3mk-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Basel-3mk)](https://github.com/Basel-3mk)
+[![GitHub Badge](https://img.shields.io/badge/-Basel--Jabari-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Basel-Jabari)](https://github.com/Basel-Jabari)
 [![Codeforces Badge](https://img.shields.io/badge/-__Basel__-orange?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/_Basel_)](https://codeforces.com/profile/_Basel_)
 [![Gmail Badge](https://img.shields.io/badge/-baslimadj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baslimadj@gmail.com)](mailto:baslimadj@gmail.com)
 
@@ -16,9 +16,10 @@ Feel free to connect with me here:
 ## Technologies & Tools
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078D7.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
